@@ -14,11 +14,15 @@ h1{
 body{
     background-color: red;
 }
-image{
-    align-items: center;
+img{
+    position: center;
     height: 400px;
     width: 800px;
-    border:40px dotted yellow;
-    border border-radius: 15px;
-}
+    border:40px solid black;
+    border-radius: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}   
 
