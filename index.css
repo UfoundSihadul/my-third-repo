@@ -14,4 +14,11 @@ h1{
 body{
     background-color: red;
 }
+image{
+    align-items: center;
+    height: 400px;
+    width: 800px;
+    border:40px dotted yellow;
+    border border-radius: 15px;
+}
 
